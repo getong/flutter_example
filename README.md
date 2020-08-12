@@ -7,6 +7,7 @@ A new Flutter project.
 ``` shell
 flutter create --no-pub flutter_example
 cd flutter_example
+open -a Simulator
 flutter run
 ```
 
