@@ -33,6 +33,8 @@ dependencies:
   audioplayers: ^0.16.0
   provider: ^4.3.2+1
   event_bus: ^1.1.1
+  http: ^0.12.2
+  json_annotation: ^3.0.1
 
 dev_dependencies:
   flutter_test:
