@@ -35,7 +35,7 @@ dependencies:
   event_bus: ^1.1.1
   http: ^0.12.2
   json_annotation: ^3.0.1
-  shared_preferences: '>=0.5.y+x <2.0.0'
+  shared_preferences: ^0.5.10
 
 dev_dependencies:
   flutter_test:
